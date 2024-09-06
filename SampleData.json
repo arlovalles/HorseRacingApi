@@ -1,0 +1,1512 @@
+//Race Info
+{
+    "id_race": "9637",
+    "course": "Golden Gate Fields (USA)",
+    "date": "2021-03-18 17:26 (UTC-4)",
+    "distance": "1 mile",
+    "age": "4yo+",
+    "finished": "1",
+    "canceled": "0",
+    "horses": [
+        {
+            "horse": "UBER STAR",
+            "id_horse": "16764",
+            "jockey": "Frank T. Alvarado",
+            "trainer": "Ruby Thomas",
+            "age": "8",
+            "weight": "8-8",
+            "number": "5",
+            "non_runner":"0",
+            "position": "3",
+            "distance_beaten": "sh",
+            "sp": "",
+            "odds": {
+                "each_way": [],
+                "winner": []
+            },
+            "poolData": []
+        },
+        {
+            "horse": "NOLONGERAHOBBY",
+            "id_horse": "22421",
+            "jockey": "Irving Orozco",
+            "trainer": "Greg C. James",
+            "age": "5",
+            "weight": "8-8",
+            "number": "1",
+            "non_runner": "0",
+            "form": "423115-44",
+            "position": "4",
+            "distance_beaten": "2",
+            "sp": "",
+            "odds": {
+                "each_way": [],
+                "winner": []
+            },
+            "poolData": []
+        },
+        {
+            "horse": "KLONDIKE CREEK",
+            "id_horse": "22082",
+            "jockey": "Catalino Martinez",
+            "trainer": "Blaine D. Wright",
+            "age": "8",
+            "weight": "8-8",
+            "number": "6",
+            "non_runner": "0",
+            "form": "13571-16",
+            "position": "5",
+            "distance_beaten": "7",
+            "sp": "",
+            "odds": {
+                "each_way": [],
+                "winner": []
+            },
+            "poolData": []
+        },
+        {
+            "horse": "SOBERANO (FR)",
+            "id_horse": "22083",
+            "jockey": "Evin A. Roman",
+            "trainer": "Jonathan Wong",
+            "age": "5",
+            "weight": "8-8",
+            "number": "2",
+            "non_runner": "0",
+            "form": "337942-62",
+            "position": "",
+            "distance_beaten": "",
+            "sp": "",
+            "odds": {
+                "each_way": [],
+                "winner": []
+            },
+            "poolData": []
+        },
+        {
+            "horse": "MITHQAAL",
+            "id_horse": "8800",
+            "jockey": "Brayan Pena",
+            "trainer": "Jonathan Wong",
+            "age": "8",
+            "weight": "8-8",
+            "number": "4",
+            "non_runner": "1",
+            "form": "41933-425",
+            "position": "",
+            "distance_beaten": "",
+            "sp": "",
+            "odds": {
+                "each_way": [],
+                "winner": []
+            },
+            "poolData": []
+        }
+    ]
+}
+
+//Race Results
+[
+    {
+        "id_race": "9616",
+        "course": "Delta Downs (USA)",
+        "date": "2021-03-18 13:55 (UTC-4)",
+        "distance": "5 furlongs",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9617",
+        "course": "Delta Downs (USA)",
+        "date": "2021-03-18 14:22 (UTC-4)",
+        "distance": "7 furlongs",
+        "age": "3yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9618",
+        "course": "Delta Downs (USA)",
+        "date": "2021-03-18 14:49 (UTC-4)",
+        "distance": "5 furlongs",
+        "age": "3yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9619",
+        "course": "Delta Downs (USA)",
+        "date": "2021-03-18 15:16 (UTC-4)",
+        "distance": "5 furlongs",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9620",
+        "course": "Delta Downs (USA)",
+        "date": "2021-03-18 15:43 (UTC-4)",
+        "distance": "1 \r\nmile",
+        "age": "3yo",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9621",
+        "course": "Delta Downs (USA)",
+        "date": "2021-03-18 16:11 (UTC-4)",
+        "distance": "5 furlongs",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9622",
+        "course": "Delta Downs (USA)",
+        "date": "2021-03-18 16:39 (UTC-4)",
+        "distance": "5 furlongs",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9623",
+        "course": "Delta Downs (USA)",
+        "date": "2021-03-18 17:07 (UTC-4)",
+        "distance": "1 mile",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9624",
+        "course": "Delta Downs (USA)",
+        "date": "2021-03-18 17:35 (UTC-4)",
+        "distance": "5 furlongs",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9625",
+        "course": "Fair Grounds (USA)",
+        "date": "2021-03-18 14:00 (UTC-4)",
+        "distance": "6 furlongs",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9626",
+        "course": "Fair Grounds (USA)",
+        "date": "2021-03-18 14:29 (UTC-4)",
+        "distance": "1 1/16 miles",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9627",
+        "course": "Fair Grounds (USA)",
+        "date": "2021-03-18 14:58 (UTC-4)",
+        "distance": "6 furlongs",
+        "age": "3yo",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9628",
+        "course": "Fair Grounds (USA)",
+        "date": "2021-03-18 15:27 (UTC-4)",
+        "distance": "5 1/2 furlongs",
+        "age": "3yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9629",
+        "course": "Fair Grounds (USA)",
+        "date": "2021-03-18 15:56 (UTC-4)",
+        "distance": "6 furlongs",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9630",
+        "course": "Fair Grounds (USA)",
+        "date": "2021-03-18 16:25 (UTC-4)",
+        "distance": "1 mile",
+        "age": "3yo",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9631",
+        "course": "Fair Grounds (USA)",
+        "date": "2021-03-18 16:54 (UTC-4)",
+        "distance": "1 1/16 miles",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9632",
+        "course": "Fair Grounds (USA)",
+        "date": "2021-03-18 17:23 (UTC-4)",
+        "distance": "5 1/2 furlongs",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9633",
+        "course": "Fair Grounds (USA)",
+        "date": "2021-03-18 17:52 (UTC-4)",
+        "distance": "6 furlongs",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9634",
+        "course": "Golden Gate Fields (USA)",
+        "date": "2021-03-18 15:45 (UTC-4)",
+        "distance": "5 1/2 furlongs",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9635",
+        "course": "Golden Gate Fields (USA)",
+        "date": "2021-03-18 16:20 (UTC-4)",
+        "distance": "5 1/2 furlongs",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9636",
+        "course": "Golden Gate Fields (USA)",
+        "date": "2021-03-18 \r\n16:52 (UTC-4)",
+        "distance": "6 furlongs",
+        "age": "3yo",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9637",
+        "course": "Golden Gate Fields (USA)",
+        "date": "2021-03-18 17:26 (UTC-4)",
+        "distance": "1 mile",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9638",
+        "course": "Golden Gate Fields (USA)",
+        "date": "2021-03-18 17:57 (UTC-4)",
+        "distance": "5 1/2 furlongs",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9639",
+        "course": "Golden Gate Fields (USA)",
+        "date": "2021-03-18 18:27 (UTC-4)",
+        "distance": "1 mile",
+        "age": "3yo",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9640",
+        "course": "Golden Gate Fields (USA)",
+        "date": "2021-03-18 18:57 (UTC-4)",
+        "distance": "1 mile",
+        "age": "3yo",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9641",
+        "course": "Gulfstream Park (USA)",
+        "date": "2021-03-18 13:10 (UTC-4)",
+        "distance": "5 furlongs",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9642",
+        "course": "Gulfstream Park (USA)",
+        "date": "2021-03-18 13:39 (UTC-4)",
+        "distance": "7 furlongs",
+        "age": "3yo",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9643",
+        "course": "Gulfstream Park (USA)",
+        "date": "2021-03-18 14:08 (UTC-4)",
+        "distance": "5 1/2 furlongs",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9644",
+        "course": "Gulfstreamlongs",
+        "age": "3yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9659",
+        "course": "Oaklawn Park (USA)",
+        "date": "2021-03-18 14:00 (UTC-4)",
+        "distance": "1 1/16 miles",
+        "age": "3yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9660",
+        "course": "Oaklawn Park (USA)",
+        "date": "2021-03-18 14:31 (UTC-4)",
+        "distance": "6 furlongs",
+        "age": "3yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9661",
+        "course": "Oaklawn Park (USA)",
+        "date": "2021-03-18 15:02 (UTC-4)",
+        "distance": "6 furlongs",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9662",
+        "course": "Oaklawn Park (USA)",
+        "date": "2021-03-18 15:33 (UTC-4)",
+        "distance": "6 furlongs",
+        "age": "3yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9663",
+        "course": "Oaklawn Park (USA)",
+        "date": "2021-03-18 16:06 (UTC-4)",
+        "distance": "1 1/16 miles",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9664",
+        "course": "Oaklawn \r\nPark (USA)",
+        "date": "2021-03-18 16:38 (UTC-4)",
+        "distance": "6 furlongs",
+        "age": "3yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9665",
+        "course": "Oaklawn Park (USA)",
+        "date": "2021-03-18 17:09 (UTC-4)",
+        "distance": "5 1/2 furlongs",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9666",
+        "course": "Oaklawn Park (USA)",
+        "date": "2021-03-18 17:40 (UTC-4)",
+        "distance": "6 furlongs",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9667",
+        "course": "Oaklawn Park (USA)",
+        "date": "2021-03-18 18:10 (UTC-4)",
+        "distance": "1 1/16 miles",
+        "age": "3yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9675",
+        "course": "Sam Houston Race Park (USA)",
+        "date": "2021-03-18 20:25 (UTC-4)",
+        "distance": "1 mile",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9676",
+        "course": "Sam Houston Race Park (USA)",
+        "date": "2021-03-18 20:54 (UTC-4)",
+        "distance": "1 mile",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9677",
+        "course": "Sam Houston Race Park (USA)",
+        "date": "2021-03-18 21:24 (UTC-4)",
+        "distance": "1 mile",
+        "age": "3yo",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9668",
+        "course": "Sam Houston Race Park (USA)",
+        "date": "2021-03-18 17:02 (UTC-4)",
+        "distance": "5 1/2 furlongs",
+        "age": "4-5yo",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9669",
+        "course": "Sam Houston Race Park (USA)",
+        "date": "2021-03-18 17:31 (UTC-4)",
+        "distance": "1 mile",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9670",
+        "course": "Sam Houston Race Park (USA)",
+        "date": "2021-03-18 18:00 (UTC-4)",
+        "distance": "6 furlongs",
+        "age": "3yo",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9671",
+        "course": "Sam Houston Race Park (USA)",
+        "date": "2021-03-18 18:29 (UTC-4)",
+        "distance": "1 mile",
+        "age": "3yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9672",
+        "course": "Sam Houston Race Park (USA)",
+        "date": "2021-03-18 18:57 (UTC-4)",
+        "distance": "5 furlongs",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9673",
+        "course": "Sam Houston Race Park (USA)",
+        "date": "2021-03-18 19:26 (UTC-4)",
+        "distance": "1 mile 70 yards",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9674",
+        "course": "Sam Houston Race Park (USA)",
+        "date": "2021-03-18 19:55 (UTC-4)",
+        "distance": "5 furlongs",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9684",
+        "course": "Turf Paradise (USA)",
+        "date": "2021-03-18 20:24 (UTC-4)",
+        "distance": "7 1/2 furlongs",
+        "age": "3yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9678",
+        "course": "Turf Paradise (USA)",
+        "date": "2021-03-18 17:29 (UTC-4)",
+        "distance": "6 furlongs",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9679",
+        "course": "Turf Paradise (USA)",
+        "date": "2021-03-18 18:00 (UTC-4)",
+        "distance": "6 \r\n1/2 furlongs",
+        "age": "3yo",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9680",
+        "course": "Turf Paradise (USA)",
+        "date": "2021-03-18 18:30 (UTC-4)",
+        "distance": "1 mile",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9681",
+        "course": "Turf Paradise (USA)",
+        "date": "2021-03-18 19:00 (UTC-4)",
+        "distance": "6 1/2 furlongs",
+        "age": "3yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9682",
+        "course": "Turf Paradise (USA)",
+        "date": "2021-03-18 19:28 (UTC-4)",
+        "distance": "1 mile",
+        "age": "3yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9683",
+        "course": "Turf Paradise (USA)",
+        "date": "2021-03-18 19:56 (UTC-4)",
+        "distance": "5 furlongs",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9689",
+        "course": "Turfway Park (USA)",
+        "date": "2021-03-18 20:16 (UTC-4)",
+        "distance": "1 mile",
+        "age": "3yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9690",
+        "course": "Turfway Park (USA)",
+        "date": "2021-03-18 20:46 (UTC-4)",
+        "distance": "6 furlongs",
+        "age": "3yo",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9691",
+        "course": "Turfway Park (USA)",
+        "date": "2021-03-18 21:16 (UTC-4)",
+        "distance": "6 1/2 furlongs",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9692",
+        "course": "Turfway Park (USA)",
+        "date": "2021-03-18 21:46 (UTC-4)",
+        "distance": "6 1/2 furlongs",
+        "age": "3yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9685",
+        "course": "Turfway Park (USA)",
+        "date": "2021-03-18 18:15 (UTC-4)",
+        "distance": "1 1/16 miles",
+        "age": "3yo",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9686",
+        "course": "Turfway Park (USA)",
+        "date": "2021-03-18 18:46 (UTC-4)",
+        "distance": "6 furlongs",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9687",
+        "course": "Turfway Park (USA)",
+        "date": "2021-03-18 19:16 (UTC-4)",
+        "distance": "6 1/2 furlongs",
+        "age": "3yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9688",
+        "course": "Turfway Park (USA)",
+        "date": "2021-03-18 19:46 (UTC-4)",
+        "distance": "1 mile",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    }
+]
+
+//RaceCard Info
+[
+    {
+        "id_race": "9624",
+        "course": "Delta Downs (USA)",
+        "date": "2021-03-18 17:35 (UTC-4)",
+        "distance": "5 furlongs",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9623",
+        "course": "Delta Downs (USA)",
+        "date": "2021-03-18 17:07 (UTC-4)",
+        "distance": "1 mile",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9622",
+        "course": "Delta Downs (USA)",
+        "date": "2021-03-18 16:39 (UTC-4)",
+        "distance": "5 furlongs",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9621",
+        "course": "Delta Downs (USA)",
+        "date": "2021-03-18 16:11 (UTC-4)",
+        "distance": "5 furlongs",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9620",
+        "course": "Delta Downs (USA)",
+        "date": "2021-03-18 15:43 (UTC-4)",
+        "distance": "1 mile",
+        "age": "3yo",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9619",
+        "course": "Delta Downs (USA)",
+        "date": "2021-03-18 15:16 (UTC-4)",
+        "distance": "5 furlongs",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9618",
+        "course": "Delta Downs (USA)",
+        "date": "2021-03-18 14:49 (UTC-4)",
+        "distance": "5 furlongs",
+        "age": "3yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9617",
+        "course": "Delta Downs (USA)",
+        "date": "2021-03-18 14:22 (UTC-4)",
+        "distance": "7 furlongs",
+        "age": "3yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9616",
+        "course": "Delta Downs (USA)",
+        "date": "2021-03-18 13:55 (UTC-4)",
+        "distance": "5 furlongs",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9633",
+        "course": "Fair Grounds (USA)",
+        "date": "2021-03-18 17:52 (UTC-4)",
+        "distance": "6 furlongs",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9632",
+        "course": "Fair Grounds (USA)",
+        "date": "2021-03-18 17:23 (UTC-4)",
+        "distance": "5 1/2 furlongs",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9631",
+        "course": "Fair Grounds (USA)",
+        "date": "2021-03-18 16:54 (UTC-4)",
+        "distance": "1 1/16 miles",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9630",
+        "course": "Fair Grounds (USA)",
+        "date": "2021-03-18 16:25 (UTC-4)",
+        "distance": "1 mile",
+        "age": "3yo",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9629",
+        "course": "Fair Grounds (USA)",
+        "date": "2021-03-18 15:56 (UTC-4)",
+        "distance": "6 furlongs",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9628",
+        "course": "Fair Grounds (USA)",
+        "date": "2021-03-18 15:27 (UTC-4)",
+        "distance": "5 1/2 furlongs",
+        "age": "3yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9627",
+        "course": "Fair Grounds (USA)",
+        "date": "2021-03-18 14:58 (UTC-4)",
+        "distance": "6 furlongs",
+        "age": "3yo",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9626",
+        "course": "Fair Grounds (USA)",
+        "date": "2021-03-18 14:29 (UTC-4)",
+        "distance": "1 1/16 miles",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9625",
+        "course": "Fair Grounds (USA)",
+        "date": "2021-03-18 14:00 (UTC-4)",
+        "distance": "6 furlongs",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9640",
+        "course": "Golden Gate Fields (USA)",
+        "date": "2021-03-18 18:57 (UTC-4)",
+        "distance": "1 mile",
+        "age": "3yo",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9639",
+        "course": "Golden Gate Fields (USA)",
+        "date": "2021-03-18 18:27 (UTC-4)",
+        "distance": "1 mile",
+        "age": "3yo",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9638",
+        "course": "Golden Gate Fields (USA)",
+        "date": "2021-03-18 17:57 (UTC-4)",
+        "distance": "5 1/2 furlongs",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9637",
+        "course": "Golden Gate Fields (USA)",
+        "date": "2021-03-18 17:26 (UTC-4)",
+        "distance": "1 mile",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9636",
+        "course": "Golden Gate Fields (USA)",
+        "date": "2021-03-18 16:52 (UTC-4)",
+        "distance": "6 furlongs",
+        "age": "3yo",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9635",
+        "course": "Golden Gate Fields (USA)",
+        "date": "2021-03-18 16:20 (UTC-4)",
+        "distance": "5 1/2 furlongs",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9634",
+        "course": "Golden Gate Fields (USA)",
+        "date": "2021-03-18 15:45 (UTC-4)",
+        "distance": "5 1/2 furlongs",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9650",
+        "course": "Gulfstream Park (USA)",
+        "date": "2021-03-18 17:54 (UTC-4)",
+        "distance": "1 mile",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9649",
+        "course": "Gulfstream Park (USA)",
+        "date": "2021-03-18 17:22 (UTC-4)",
+        "distance": "1 mile",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9648",
+        "course": "Gulfstream Park (USA)",
+        "date": "2021-03-18 16:48 (UTC-4)",
+        "distance": "1 mile",
+        "age": "3yo",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9647",
+        "course": "Gulfstream Park (USA)",
+        "date": "2021-03-18 16:16 (UTC-4)",
+        "distance": "5 furlongs",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9646",
+        "course": "Gulfstream Park (USA)",
+        "date": "2021-03-18 15:41 (UTC-4)",
+        "distance": "6 1/2 \r\nfurlongs",
+        "age": "3yo",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9645",
+        "course": "Gulfstream Park (USA)",
+        "date": "2021-03-18 15:11 (UTC-4)",
+        "distance": "1 mile",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9644",
+        "course": "Gulfstream Park (USA)",
+        "date": "2021-03-18 14:37 (UTC-4)",
+        "distance": "6 1/2 furlongs",
+        "age": "3yo",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9643",
+        "course": "Gulfstream Park (USA)",
+        "date": "2021-03-18 14:08 (UTC-4)",
+        "distance": "5 1/2 furlongs",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9642",
+        "course": "Gulfstream Park (USA)",
+        "date": "2021-03-18 13:39 (UTC-4)",
+        "distance": "7 furlongs",
+        "age": "3yo",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9641",
+        "course": "Gulfstream Park (USA)",
+        "date": "2021-03-18 13:10 (UTC-4)",
+        "distance": "5 furlongs",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9658",
+        "course": "Hollywood Casino At Charles Town Races (USA)",
+        "date": "2021-03-18 22:17 (UTC-4)",
+        "distance": "4 1/2 furlongs",
+        "age": "3-6yo",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9657",
+        "course": "Hollywood Casino At Charles Town Races (USA)",
+        "date": "2021-03-18 21:49 (UTC-4)",
+        "distance": "4 1/2 furlongs",
+        "age": "3yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9656",
+        "course": "Hollywood Casino At Charles Town Races (USA)",
+        "date": "2021-03-18 21:21 (UTC-4)",
+        "distance": "4 1/2 furlongs",
+        "age": "3yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9655",
+        "course": "Hollywood Casino At Charles Town Races (USA)",
+        "date": "2021-03-18 20:53 (UTC-4)",
+        "distance": "4 1/2 furlongs",
+        "age": "3yo",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9654",
+        "course": "Hollywood Casino At Charles Town Races (USA)",
+        "date": "2021-03-18 20:25 (UTC-4)",
+        "distance": "6 1/2 furlongs",
+        "age": "3yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9653",
+        "course": "Hollywood Casino At Charles Town Races (USA)",
+        "date": "2021-03-18 19:57 (UTC-4)",
+        "distance": "6 1/2 furlongs",
+        "age": "3yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9652",
+        "course": "Hollywood Casino At Charles Town Races (USA)",
+        "date": "2021-03-18 19:30 (UTC-4)",
+        "distance": "4 1/2 furlongs",
+        "age": "3-6yo",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9651",
+        "course": "Hollywood Casino At Charles Town Races (USA)",
+        "date": "2021-03-18 19:00 (UTC-4)",
+        "distance": "4 1/2 furlongs",
+        "age": "3yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9667",
+        "course": "Oaklawn Park (USA)",
+        "date": "2021-03-18 18:10 (UTC-4)",
+        "distance": "1 1/16 miles",
+        "age": "3yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9666",
+        "course": "Oaklawn Park (USA)",
+        "date": "2021-03-18 17:40 (UTC-4)",
+        "distance": "6 furlongs",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9665",
+        "course": "Oaklawn Park (USA)",
+        "date": "2021-03-18 17:09 (UTC-4)",
+        "distance": "5 1/2 furlongs",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9664",
+        "course": "Oaklawn Park (USA)",
+        "date": "2021-03-18 16:38 (UTC-4)",
+        "distance": "6 furlongs",
+        "age": "3yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9663",
+        "course": "Oaklawn Park (USA)",
+        "date": "2021-03-18 16:06 (UTC-4)",
+        "distance": "1 1/16 miles",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9662",
+        "course": "Oaklawn Park (USA)",
+        "date": "2021-03-18 15:33 (UTC-4)",
+        "distance": "6 furlongs",
+        "age": "3yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9661",
+        "course": "Oaklawn Park (USA)",
+        "date": "2021-03-18 15:02 (UTC-4)",
+        "distance": "6 furlongs",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9660",
+        "course": "Oaklawn Park (USA)",
+        "date": "2021-03-18 14:31 (UTC-4)",
+        "distance": "6 furlongs",
+        "age": "3yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9659",
+        "course": "Oaklawn Park (USA)",
+        "date": "2021-03-18 14:00 (UTC-4)",
+        "distance": "1 1/16 miles",
+        "age": "3yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9677",
+        "course": "Sam Houston Race Park (USA)",
+        "date": "2021-03-18 21:24 (UTC-4)",
+        "distance": "1 mile",
+        "age": "3yo",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9676",
+        "course": "Sam Houston Race Park (USA)",
+        "date": "2021-03-18 20:54 (UTC-4)",
+        "distance": "1 mile",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9675",
+        "course": "Sam Houston \r\nRace Park (USA)",
+        "date": "2021-03-18 20:25 (UTC-4)",
+        "distance": "1 mile",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9674",
+        "course": "Sam Houston Race Park (USA)",
+        "date": "2021-03-18 19:55 (UTC-4)",
+        "distance": "5 furlongs",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9673",
+        "course": "Sam Houston Race Park (USA)",
+        "date": "2021-03-18 19:26 (UTC-4)",
+        "distance": "1 mile 70 yards",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9672",
+        "course": "Sam Houston Race Park (USA)",
+        "date": "2021-03-18 18:57 (UTC-4)",
+        "distance": "5 furlongs",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9671",
+        "course": "Sam Houston Race Park (USA)",
+        "date": "2021-03-18 18:29 (UTC-4)",
+        "distance": "1 mile",
+        "age": "3yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9670",
+        "course": "Sam Houston Race Park (USA)",
+        "date": "2021-03-18 18:00 (UTC-4)",
+        "distance": "6 furlongs",
+        "age": "3yo",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9669",
+        "course": "Sam Houston Race Park (USA)",
+        "date": "2021-03-18 17:31 (UTC-4)",
+        "distance": "1 mile",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9668",
+        "course": "Sam Houston Race Park (USA)",
+        "date": "2021-03-18 17:02 (UTC-4)",
+        "distance": "5 1/2 furlongs",
+        "age": "4-5yo",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9684",
+        "course": "Turf Paradise (USA)",
+        "date": "2021-03-18 20:24 (UTC-4)",
+        "distance": "7 1/2 furlongs",
+        "age": "3yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9683",
+        "course": "Turf Paradise (USA)",
+        "date": "2021-03-18 19:56 (UTC-4)",
+        "distance": "5 furlongs",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9682",
+        "course": "Turf Paradise (USA)",
+        "date": "2021-03-18 19:28 (UTC-4)",
+        "distance": "1 mile",
+        "age": "3yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9681",
+        "course": "Turf Paradise (USA)",
+        "date": "2021-03-18 19:00 (UTC-4)",
+        "distance": "6 1/2 furlongs",
+        "age": "3yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9680",
+        "course": "Turf Paradise (USA)",
+        "date": "2021-03-18 18:30 (UTC-4)",
+        "distance": "1 mile",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9679",
+        "course": "Turf Paradise (USA)",
+        "date": "2021-03-18 \r\n18:00 (UTC-4)",
+        "distance": "6 1/2 furlongs",
+        "age": "3yo",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9678",
+        "course": "Turf Paradise (USA)",
+        "date": "2021-03-18 17:29 (UTC-4)",
+        "distance": "6 furlongs",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9692",
+        "course": "Turfway Park (USA)",
+        "date": "2021-03-18 21:46 (UTC-4)",
+        "distance": "6 1/2 furlongs",
+        "age": "3yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9691",
+        "course": "Turfway Park (USA)",
+        "date": "2021-03-18 21:16 (UTC-4)",
+        "distance": "6 1/2 furlongs",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9690",
+        "course": "Turfway Park (USA)",
+        "date": "2021-03-18 20:46 (UTC-4)",
+        "distance": "6 furlongs",
+        "age": "3yo",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9689",
+        "course": "Turfway Park (USA)",
+        "date": "2021-03-18 20:16 (UTC-4)",
+        "distance": "1 mile",
+        "age": "3yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9688",
+        "course": "Turfway Park (USA)",
+        "date": "2021-03-18 19:46 (UTC-4)",
+        "distance": "1 mile",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9687",
+        "course": "Turfway Park (USA)",
+        "date": "2021-03-18 19:16 (UTC-4)",
+        "distance": "6 1/2 furlongs",
+        "age": "3yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9686",
+        "course": "Turfway Park (USA)",
+        "date": "2021-03-18 18:46 (UTC-4)",
+        "distance": "6 furlongs",
+        "age": "4yo+",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    },
+    {
+        "id_race": "9685",
+        "course": "Turfway Park (USA)",
+        "date": "2021-03-18 18:15 (UTC-4)",
+        "distance": "1 1/16 miles",
+        "age": "3yo",
+        "finished": "1",
+        "canceled": "0",
+        "offtime": ""
+    }
+]
