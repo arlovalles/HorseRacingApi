@@ -1,6 +1,9 @@
 import http.client
 import json
 
+RAPID_API_ACCOUNT_KEY="e059640a1bmshbe4030be7a88e7ep11168fjsn4580fbf9952c" 
+RAPID_API_HOST="horse-racing-usa.p.rapidapi.com"
+
 class RaceCardRace:
     id_race:int
     course:str
@@ -89,35 +92,35 @@ def get_api_data(hostConnectionString, queryString, headers):
 def get_racecard_info(raceDate):
 
     headers = {
-        'x-rapidapi-key': "e059640a1bmshbe4030be7a88e7ep11168fjsn4580fbf9952c",
-        'x-rapidapi-host': "horse-racing-usa.p.rapidapi.com"
+        'x-rapidapi-key': RAPID_API_ACCOUNT_KEY,
+        'x-rapidapi-host': RAPID_API_HOST
     }   
 
     queryString=f"/racecards?date={raceDate}"
 
-    return get_api_data(hostConnectionString="horse-racing-usa.p.rapidapi.com", queryString=queryString, headers=headers)
+    return get_api_data(hostConnectionString=RAPID_API_HOST, queryString=queryString, headers=headers)
 
 def get_finishedrace_info(raceDate):
 
     headers = {
-        'x-rapidapi-key': "e059640a1bmshbe4030be7a88e7ep11168fjsn4580fbf9952c",
-        'x-rapidapi-host': "horse-racing-usa.p.rapidapi.com"
+        'x-rapidapi-key': RAPID_API_ACCOUNT_KEY,
+        'x-rapidapi-host': RAPID_API_HOST
     }
 
     queryString=f"/results?date={raceDate}"
 
-    return get_api_data(hostConnectionString="horse-racing-usa.p.rapidapi.com", queryString=queryString, headers=headers)
+    return get_api_data(hostConnectionString=RAPID_API_HOST, queryString=queryString, headers=headers)
 
 def get_raceResult_info(raceId:int):
 
     headers = {
-        'x-rapidapi-key': "e059640a1bmshbe4030be7a88e7ep11168fjsn4580fbf9952c",
-        'x-rapidapi-host': "horse-racing-usa.p.rapidapi.com"
+        'x-rapidapi-key': RAPID_API_ACCOUNT_KEY,
+        'x-rapidapi-host': RAPID_API_HOST
     }
 
     queryString=f"/race/{raceId}"
 
-    return get_api_data(hostConnectionString="horse-racing-usa.p.rapidapi.com", queryString=queryString, headers=headers)
+    return get_api_data(hostConnectionString=RAPID_API_HOST, queryString=queryString, headers=headers)
 
 def format_racecard_data(raceCardData):
     listOfRaces = json.loads(raceCardData)
