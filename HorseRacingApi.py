@@ -97,7 +97,7 @@ def get_racecard_info(raceDate):
 
     return get_api_data(hostConnectionString="horse-racing-usa.p.rapidapi.com", queryString=queryString, headers=headers)
 
-def get_finishedrace_data(raceDate):
+def get_finishedrace_info(raceDate):
 
     headers = {
         'x-rapidapi-key': "e059640a1bmshbe4030be7a88e7ep11168fjsn4580fbf9952c",
@@ -137,14 +137,20 @@ def format_race_data(raceResultData):
 
 
 if __name__ == '__main__':
-#    x = format_racecard_data(get_racecard_info('2021-03-18'))    
-#    for i in x:
-#        print(i)
-    x = format_finishedRace_data(get_finishedrace_data('2021-03-18'))
+    raceDate = '2024-09-10'
+    finishedRaceId = 107022
+    x = format_racecard_data(get_racecard_info(raceDate))    
     for i in x:
         print(i)
-        r = get_raceResult_info(i.id_race)
-        print(r)
-        for h in format_race_data(r):
-            print(h)
+
+    print('=========================')
+    x = format_finishedRace_data(get_finishedrace_info(raceDate))
+    for i in x:
+        print(i)
+
+    print('=========================')
+    r = get_raceResult_info(i.id_race)
+    print(r)
+    for h in format_race_data(r):
+        print(h)
 

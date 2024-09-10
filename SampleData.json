@@ -1,3 +1,7 @@
+/*
+This is sample data returned by the api for programming reference purposes.
+*/
+
 //Race Info
 {
     "id_race": "9637",
